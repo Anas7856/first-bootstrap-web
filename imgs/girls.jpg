@@ -1,0 +1,642 @@
+<!DOCTYPE html>
+<!-- saved from url=(0042)https://preview.uideck.com/items/simple/#0 -->
+<html class="no-js" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+<title>Simple - Bootstrap 5 Website Template</title>
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="shortcut icon" href="https://preview.uideck.com/items/simple/assets/images/favicon.png" type="image/png">
+
+<link rel="stylesheet" href="./girls_files/animate.css">
+
+<link rel="stylesheet" href="./girls_files/tiny-slider.css">
+
+<link rel="stylesheet" href="./girls_files/LineIcons.2.0.css">
+
+<link rel="stylesheet" href="./girls_files/bootstrap-5.0.0-beta1.min.css">
+
+<link rel="stylesheet" href="./girls_files/default.css">
+
+<link rel="stylesheet" href="./girls_files/style.css">
+<style></style></head>
+<body>
+<!--[if IE]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+  <![endif]-->
+
+<div class="preloader" style="opacity: 0; display: none;">
+<div class="loader">
+<div class="ytp-spinner">
+<div class="ytp-spinner-container">
+<div class="ytp-spinner-rotator">
+<div class="ytp-spinner-left">
+<div class="ytp-spinner-circle"></div>
+</div>
+<div class="ytp-spinner-right">
+<div class="ytp-spinner-circle"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<section id="home" class="header_area">
+<div id="header_navbar" class="header_navbar sticky">
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+<nav class="navbar navbar-expand-lg">
+<a class="navbar-brand" href="https://preview.uideck.com/items/simple/index.html">
+<img id="logo" src="./girls_files/logo-2.svg" alt="Logo">
+</a>
+<button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="toggler-icon"></span>
+<span class="toggler-icon"></span>
+<span class="toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
+<ul id="nav" class="navbar-nav ms-auto">
+<li class="nav-item">
+<a class="page-scroll" href="https://preview.uideck.com/items/simple/#home">Home</a>
+</li>
+<li class="nav-item">
+<a class="page-scroll active" href="https://preview.uideck.com/items/simple/#about">About</a>
+</li>
+<li class="nav-item">
+<a class="page-scroll" href="https://preview.uideck.com/items/simple/#services">Services</a>
+</li>
+<li class="nav-item">
+<a class="page-scroll" href="https://preview.uideck.com/items/simple/#portfolio">Gallery</a>
+</li>
+<li class="nav-item">
+<a class="page-scroll" href="https://preview.uideck.com/items/simple/#team">Team</a>
+</li>
+<li class="nav-item">
+<a class="page-scroll" href="https://preview.uideck.com/items/simple/#blog">Blog</a>
+</li>
+<li class="nav-item">
+<a class="page-scroll" href="https://preview.uideck.com/items/simple/#contact">Contact</a>
+</li>
+</ul>
+</div> 
+</nav> 
+</div>
+</div> 
+</div> 
+</div> 
+<div class="header_hero">
+<div class="single_hero bg_cover d-flex align-items-center" style="background-image: url(assets/images/hero.jpg)">
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-lg-8 col-md-10">
+<div class="hero_content text-center">
+<h2 class="hero_title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1.3s; animation-delay: 0.2s; animation-name: fadeInUp;">Simple Bootstrap 5<br> Website Template</h2>
+<p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1.3s; animation-delay: 0.5s; animation-name: fadeInUp;">A super simple website template based on Bootstrap 5 and HTML5, comes with all essential <br class="d-none d-xl-block"> elements &amp; features to get started and ready to use for almost any type of business websites.</p>
+<a href="https://preview.uideck.com/items/simple/#features" class="main-btn wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.8s" style="visibility: visible; animation-duration: 1.3s; animation-delay: 0.8s; animation-name: fadeInUp;">Explore</a>
+</div> 
+</div>
+</div> 
+</div> 
+</div> 
+</div> 
+</section>
+
+
+<section id="features" class="features_area pt-120">
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-lg-6">
+<div class="section_title text-center pb-25">
+<h4 class="title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1.3s; animation-delay: 0.2s; animation-name: fadeInUp;">Why Choose Us</h4>
+<p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 1.3s; animation-delay: 0.4s; animation-name: fadeInUp;">Lorem ipsum dolor sit
+amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt labor dolore.</p>
+</div> 
+</div>
+</div> 
+<div class="row justify-content-center">
+<div class="col-lg-4 col-md-7">
+<div class="single_features text-center mt-30 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1.3s; animation-delay: 0.2s; animation-name: fadeInUp;">
+<i class="lni lni-layers"></i>
+<h4 class="features_title">Bootstrap 5 Based</h4>
+<p>Lorem ipsum dolor sit amet, sadipscing elitr, sed diam nonumy eirmod tempor invidunt labor dolore magna .</p>
+</div> 
+</div>
+<div class="col-lg-4 col-md-7">
+<div class="single_features text-center mt-30 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 1.3s; animation-delay: 0.4s; animation-name: fadeInUp;">
+<i class="lni lni-layout"></i>
+<h4 class="features_title">Clean Design</h4>
+<p>Lorem ipsum dolor sit amet, sadipscing elitr, sed diam nonumy eirmod tempor invidunt labor dolore magna .</p>
+</div> 
+</div>
+<div class="col-lg-4 col-md-7">
+<div class="single_features text-center mt-30 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.6s" style="visibility: visible; animation-duration: 1.3s; animation-delay: 0.6s; animation-name: fadeInUp;">
+<i class="lni lni-bolt"></i>
+<h4 class="features_title">Cutting-edge Features</h4>
+<p>Lorem ipsum dolor sit amet, sadipscing elitr, sed diam nonumy eirmod tempor invidunt labor dolore magna .</p>
+</div> 
+</div>
+</div> 
+</div> 
+</section>
+
+
+<section id="about" class="pt-130">
+<div class="about_area">
+<div class="container">
+<div class="row">
+<div class="col-lg-6">
+<div class="about_content pt-120 pb-130">
+<div class="section_title pb">
+<h4 class="title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1.3s; animation-delay: 0.2s; animation-name: fadeInUp;">About Our
+Creative Proccess</h4>
+<p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 1.3s; animation-delay: 0.4s; animation-name: fadeInUp;">Lorem ipsum dolor
+sit amet, consetetur sadipscing elitr, sed dianonumy eirmod tempor invidunt ut
+labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
+dolores et erebum</p>
+<p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.6s" style="visibility: visible; animation-duration: 1.3s; animation-delay: 0.6s; animation-name: fadeInUp;">Lorem ipsum dolor
+sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt
+ut labore etdolore maali quyam erat, sed diam voluptua. At vero eos et accusam et justo duo
+dolores</p>
+</div> 
+<a href="https://preview.uideck.com/items/simple/#0" class="main-btn wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.7s" style="visibility: visible; animation-duration: 1.3s; animation-delay: 0.7s; animation-name: fadeInUp;">Learn More</a>
+</div> 
+</div>
+</div> 
+</div> 
+<div class="about_image bg_cover wow fadeInLeft" data-wow-duration="1.3s" data-wow-delay="0.2s" style="background-image: url(&quot;assets/images/about.jpg&quot;); visibility: visible; animation-duration: 1.3s; animation-delay: 0.2s; animation-name: fadeInLeft;">
+<div class="image_content">
+<h4 class="experience"><span>5</span> Years of Experience</h4>
+</div>
+</div> 
+</div>
+</section>
+
+
+<section id="services" class="features_area pt-120">
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-lg-6">
+<div class="section_title text-center pb-25">
+<h4 class="title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1.3s; animation-delay: 0.2s; animation-name: fadeInUp;">Our Services</h4>
+<p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 1.3s; animation-delay: 0.4s; animation-name: fadeInUp;">Lorem ipsum dolor sit
+amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt labor dolore.</p>
+</div> 
+</div>
+</div> 
+<div class="row">
+<div class="col-lg-4 col-md-6">
+<div class="single_features text-center mt-60 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1.3s; animation-delay: 0.2s; animation-name: fadeInUp;">
+<i class="lni lni-briefcase"></i>
+<h4 class="features_title">Digital Business</h4>
+<p>Lorem ipsum dolor sit amet, sadipscing elitr, sed diam nonumy eirmod tempor invidunt labor dolore magna .</p>
+</div> 
+</div>
+<div class="col-lg-4 col-md-6">
+<div class="single_features text-center mt-60 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1.3s; animation-delay: 0.3s; animation-name: fadeInUp;">
+<i class="lni lni-clipboard"></i>
+<h4 class="features_title">Startup Business</h4>
+<p>Lorem ipsum dolor sit amet, sadipscing elitr, sed diam nonumy eirmod tempor invidunt labor dolore magna .</p>
+</div> 
+</div>
+<div class="col-lg-4 col-md-6">
+<div class="single_features text-center mt-60 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 1.3s; animation-delay: 0.4s; animation-name: fadeInUp;">
+<i class="lni lni-target-revenue"></i>
+<h4 class="features_title">Business Investment</h4>
+<p>Lorem ipsum dolor sit amet, sadipscing elitr, sed diam nonumy eirmod tempor invidunt labor dolore magna .</p>
+</div> 
+</div>
+<div class="col-lg-4 col-md-6">
+<div class="single_features text-center mt-60 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1.3s; animation-delay: 0.2s; animation-name: fadeInUp;">
+<i class="lni lni-invention"></i>
+<h4 class="features_title">Business Solutions</h4>
+<p>Lorem ipsum dolor sit amet, sadipscing elitr, sed diam nonumy eirmod tempor invidunt labor dolore magna .</p>
+</div> 
+</div>
+<div class="col-lg-4 col-md-6">
+<div class="single_features text-center mt-60 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1.3s; animation-delay: 0.3s; animation-name: fadeInUp;">
+<i class="lni lni-bar-chart"></i>
+<h4 class="features_title">Business Analysis</h4>
+<p>Lorem ipsum dolor sit amet, sadipscing elitr, sed diam nonumy eirmod tempor invidunt labor dolore magna .</p>
+</div> 
+</div>
+<div class="col-lg-4 col-md-6">
+<div class="single_features text-center mt-60 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 1.3s; animation-delay: 0.4s; animation-name: fadeInUp;">
+<i class="lni lni-calendar"></i>
+<h4 class="features_title">Consulting Business</h4>
+<p>Lorem ipsum dolor sit amet, sadipscing elitr, sed diam nonumy eirmod tempor invidunt labor dolore magna .</p>
+</div> 
+</div>
+</div> 
+</div> 
+</section>
+
+
+<section id="portfolio" class="portfolio_area pt-120">
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-lg-6">
+<div class="section_title text-center pb-60">
+<h4 class="title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1.3s; animation-delay: 0.2s; animation-name: fadeInUp;">Our Portfolio</h4>
+<p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 1.3s; animation-delay: 0.4s; animation-name: fadeInUp;">Lorem ipsum dolor sit
+amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt labor dolore.</p>
+</div> 
+</div>
+</div> 
+</div> 
+<div class="portfolio_wrapper d-flex flex-wrap">
+<div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1.3s; animation-delay: 0.2s; animation-name: fadeInUp;">
+<img src="./girls_files/portfolio-1.jpg" alt="portfolio">
+<div class="portfolio_content">
+<ul class="meta">
+<li><a href="https://preview.uideck.com/items/simple/#0"><i class="lni lni-link"></i></a></li>
+</ul>
+<h5 class="portfolio_title">Logo And Branding</h5>
+</div> 
+</div> 
+<div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1.3s; animation-delay: 0.3s; animation-name: fadeInUp;">
+<img src="./girls_files/portfolio-2.jpg" alt="portfolio">
+<div class="portfolio_content">
+<ul class="meta">
+<li><a href="https://preview.uideck.com/items/simple/#0"><i class="lni lni-link"></i></a></li>
+</ul>
+<h5 class="portfolio_title">Bootstrap 5 Project</h5>
+</div> 
+</div> 
+<div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 1.3s; animation-delay: 0.4s; animation-name: fadeInUp;">
+<img src="./girls_files/portfolio-3.jpg" alt="portfolio">
+<div class="portfolio_content">
+<ul class="meta">
+<li><a href="https://preview.uideck.com/items/simple/#0"><i class="lni lni-link"></i></a></li>
+</ul>
+<h5 class="portfolio_title">Creative Projects</h5>
+</div> 
+</div> 
+<div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1.3s; animation-delay: 0.5s; animation-name: fadeInUp;">
+<img src="./girls_files/portfolio-4.jpg" alt="portfolio">
+<div class="portfolio_content">
+<ul class="meta">
+<li><a href="https://preview.uideck.com/items/simple/#0"><i class="lni lni-link"></i></a></li>
+</ul>
+<h5 class="portfolio_title">UI/UX Projects</h5>
+</div> 
+</div> 
+<div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s" style="visibility: hidden; animation-duration: 1.3s; animation-delay: 0.2s; animation-name: none;">
+<img src="./girls_files/portfolio-5.jpg" alt="portfolio">
+<div class="portfolio_content">
+<ul class="meta">
+<li><a href="https://preview.uideck.com/items/simple/#0"><i class="lni lni-link"></i></a></li>
+</ul>
+<h5 class="portfolio_title">App Development</h5>
+</div> 
+</div> 
+<div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.3s" style="visibility: hidden; animation-duration: 1.3s; animation-delay: 0.3s; animation-name: none;">
+<img src="./girls_files/portfolio-6.jpg" alt="portfolio">
+<div class="portfolio_content">
+<ul class="meta">
+<li><a href="https://preview.uideck.com/items/simple/#0"><i class="lni lni-link"></i></a></li>
+</ul>
+<h5 class="portfolio_title">Web Development</h5>
+</div> 
+</div> 
+<div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s" style="visibility: hidden; animation-duration: 1.3s; animation-delay: 0.4s; animation-name: none;">
+<img src="./girls_files/portfolio-7.jpg" alt="portfolio">
+<div class="portfolio_content">
+<ul class="meta">
+<li><a href="https://preview.uideck.com/items/simple/#0"><i class="lni lni-link"></i></a></li>
+</ul>
+<h5 class="portfolio_title">Business Card Design</h5>
+</div> 
+</div> 
+<div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.5s" style="visibility: hidden; animation-duration: 1.3s; animation-delay: 0.5s; animation-name: none;">
+<img src="./girls_files/portfolio-8.jpg" alt="portfolio">
+<div class="portfolio_content">
+<ul class="meta">
+<li><a href="https://preview.uideck.com/items/simple/#0"><i class="lni lni-link"></i></a></li>
+</ul>
+<h5 class="portfolio_title">Consulting Business</h5>
+</div> 
+</div> 
+</div> 
+</section>
+
+
+<section id="pricing" class="pricing_area pt-120 pb-130">
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-lg-6">
+<div class="section_title text-center pb-25">
+<h4 class="title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s" style="visibility: hidden; animation-duration: 1.3s; animation-delay: 0.2s; animation-name: none;">Pricing Plans</h4>
+<p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s" style="visibility: hidden; animation-duration: 1.3s; animation-delay: 0.4s; animation-name: none;">Lorem ipsum dolor sit
+amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt labor dolore.</p>
+</div> 
+</div>
+</div> 
+<div class="row justify-content-center">
+<div class="col-lg-4 col-md-8 col-sm-10">
+<div class="single_pricing text-center mt-30 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s" style="visibility: hidden; animation-duration: 1.3s; animation-delay: 0.2s; animation-name: none;">
+<h4 class="pricing_title">Startup</h4>
+<span class="price">$240</span>
+<ul class="pricing_list">
+<li>Startup Business</li>
+<li>Business Consulting</li>
+<li>Business Analysis</li>
+<li>Corporate Business</li>
+<li>Business Investment</li>
+</ul>
+<a href="https://preview.uideck.com/items/simple/#0" class="mian-btn">Order Now</a>
+</div> 
+</div>
+<div class="col-lg-4 col-md-8 col-sm-10">
+<div class="single_pricing text-center mt-30 active wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.3s" style="visibility: hidden; animation-duration: 1.3s; animation-delay: 0.3s; animation-name: none;">
+<h4 class="pricing_title">Agency</h4>
+<span class="price">$340</span>
+<ul class="pricing_list">
+<li>Startup Business</li>
+<li>Business Consulting</li>
+<li>Business Analysis</li>
+<li>Corporate Business</li>
+<li>Business Investment</li>
+</ul>
+<a href="https://preview.uideck.com/items/simple/#0" class="mian-btn">Order Now</a>
+</div> 
+</div>
+<div class="col-lg-4 col-md-8 col-sm-10">
+<div class="single_pricing text-center mt-30 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s" style="visibility: hidden; animation-duration: 1.3s; animation-delay: 0.4s; animation-name: none;">
+<h4 class="pricing_title">Enterprise</h4>
+<span class="price">$440</span>
+<ul class="pricing_list">
+<li>Startup Business</li>
+<li>Business Consulting</li>
+<li>Business Analysis</li>
+<li>Corporate Business</li>
+<li>Business Investment</li>
+</ul>
+<a href="https://preview.uideck.com/items/simple/#0" class="mian-btn">Order Now</a>
+</div> 
+</div>
+</div> 
+</div> 
+</section>
+
+
+<section id="team" class="team_area pt-120 pb-130">
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-lg-6">
+<div class="section_title text-center pb-25">
+<h4 class="title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s" style="visibility: hidden; animation-duration: 1.3s; animation-delay: 0.2s; animation-name: none;">Meet The Team</h4>
+<p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s" style="visibility: hidden; animation-duration: 1.3s; animation-delay: 0.4s; animation-name: none;">Lorem ipsum dolor sit
+amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt labor dolore.</p>
+</div> 
+</div>
+</div> 
+<div class="row justify-content-center team_active">
+<div class="col-lg-4 col-md-8 col-sm-10">
+<div class="single_team mt-30 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s" style="visibility: hidden; animation-duration: 1.3s; animation-delay: 0.2s; animation-name: none;">
+<img src="./girls_files/team-1.jpg" alt="team">
+<div class="team_content">
+<h4 class="team_name"><a href="https://preview.uideck.com/items/simple/#0">Tom Hanks.</a></h4>
+<p>Head Of Ideas</p>
+<ul class="social">
+<li><a href="https://preview.uideck.com/items/simple/#0"><i class="lni lni-facebook-filled"></i></a></li>
+<li><a href="https://preview.uideck.com/items/simple/#0"><i class="lni lni-twitter-original"></i></a></li>
+<li><a href="https://preview.uideck.com/items/simple/#0"><i class="lni lni-linkedin-original"></i></a></li>
+</ul>
+</div>
+</div> 
+</div>
+<div class="col-lg-4 col-md-8 col-sm-10">
+<div class="single_team mt-30 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.3s" style="visibility: hidden; animation-duration: 1.3s; animation-delay: 0.3s; animation-name: none;">
+<img src="./girls_files/team-2.jpg" alt="team">
+<div class="team_content">
+<h4 class="team_name"><a href="https://preview.uideck.com/items/simple/#0">Jennifer L.</a></h4>
+<p>UX Designer</p>
+<ul class="social">
+<li><a href="https://preview.uideck.com/items/simple/#0"><i class="lni lni-facebook-filled"></i></a></li>
+<li><a href="https://preview.uideck.com/items/simple/#0"><i class="lni lni-twitter-original"></i></a></li>
+<li><a href="https://preview.uideck.com/items/simple/#0"><i class="lni lni-linkedin-original"></i></a></li>
+</ul>
+</div>
+</div> 
+</div>
+<div class="col-lg-4 col-md-8 col-sm-10">
+<div class="single_team mt-30 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s" style="visibility: hidden; animation-duration: 1.3s; animation-delay: 0.4s; animation-name: none;">
+<img src="./girls_files/team-3.jpg" alt="team">
+<div class="team_content">
+<h4 class="team_name"><a href="https://preview.uideck.com/items/simple/#0">Rob Percy</a></h4>
+<p>Creative Designer</p>
+<ul class="social">
+<li><a href="https://preview.uideck.com/items/simple/#0"><i class="lni lni-facebook-filled"></i></a></li>
+<li><a href="https://preview.uideck.com/items/simple/#0"><i class="lni lni-twitter-original"></i></a></li>
+<li><a href="https://preview.uideck.com/items/simple/#0"><i class="lni lni-linkedin-original"></i></a></li>
+</ul>
+</div>
+</div> 
+</div>
+</div> 
+</div> 
+</section>
+
+
+<section id="testimonial" class="testimonial_area pt-130 pb-130 bg_cover" style="background-image: url(assets/images/testimonial.jpg)">
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-lg-8">
+<div class="testimonial_active_wrapper">
+<div class="tns-outer" id="tns1-ow"><div class="tns-nav" aria-label="Carousel Pagination"><button type="button" data-nav="0" aria-controls="tns1" style="" aria-label="Carousel Page 1 (Current Slide)" class="tns-nav-active"></button><button type="button" data-nav="1" tabindex="-1" aria-controls="tns1" style="" aria-label="Carousel Page 2"></button><button type="button" data-nav="2" tabindex="-1" aria-controls="tns1" style="" aria-label="Carousel Page 3"></button></div><div class="tns-liveregion tns-visually-hidden" aria-live="polite" aria-atomic="true">slide <span class="current">2</span>  of 3</div><div id="tns1-mw" class="tns-ovh"><div class="tns-inner" id="tns1-iw"><div class="testimonial_active  tns-slider tns-carousel tns-subpixel tns-calc tns-horizontal" id="tns1" style="transition-duration: 0s; transform: translate3d(-20%, 0px, 0px);"><div class="single_testimonial text-center tns-item tns-slide-cloned" aria-hidden="true" tabindex="-1">
+<img src="./girls_files/author-3.jpg" alt="author">
+<h5 class="author_name">Elon Musk</h5>
+<span>Creaitve Businessman</span>
+<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
+tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
+vero eos accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
+</p>
+</div>
+<div class="single_testimonial text-center tns-item tns-slide-active" id="tns1-item0">
+<img src="./girls_files/author-1.jpg" alt="author">
+<h5 class="author_name">Isabela Moreira</h5>
+<span>UX Specialist, Yoast</span>
+<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
+tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
+vero eos accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
+</p>
+</div>
+<div class="single_testimonial text-center tns-item" id="tns1-item1" aria-hidden="true" tabindex="-1">
+<img src="./girls_files/author-2.jpg" alt="author">
+<h5 class="author_name">Fiona Smith</h5>
+<span>Sr. Software Engineer</span>
+<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
+tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
+vero eos accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
+</p>
+</div>
+<div class="single_testimonial text-center tns-item" id="tns1-item2" aria-hidden="true" tabindex="-1">
+<img src="./girls_files/author-3.jpg" alt="author">
+<h5 class="author_name">Elon Musk</h5>
+<span>Creaitve Businessman</span>
+<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
+tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
+vero eos accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
+</p>
+</div>
+<div class="single_testimonial text-center tns-item tns-slide-cloned" aria-hidden="true" tabindex="-1">
+<img src="./girls_files/author-1.jpg" alt="author">
+<h5 class="author_name">Isabela Moreira</h5>
+<span>UX Specialist, Yoast</span>
+<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
+tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
+vero eos accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
+</p>
+</div></div></div></div></div>
+</div>
+</div>
+</div> 
+</div> 
+</section>
+
+
+<section id="blog" class="blog_area pt-120 pb-130">
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-lg-6">
+<div class="section_title text-center pb-25">
+<h4 class="title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s" style="visibility: hidden; animation-duration: 1.3s; animation-delay: 0.2s; animation-name: none;">Recent Blog</h4>
+<p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s" style="visibility: hidden; animation-duration: 1.3s; animation-delay: 0.4s; animation-name: none;">Lorem ipsum dolor sit
+amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt labor dolore.</p>
+</div> 
+</div>
+</div> 
+<div class="row">
+<div class="col-lg-6">
+<div class="single_blog mt-30 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s" style="visibility: hidden; animation-duration: 1.3s; animation-delay: 0.2s; animation-name: none;">
+<div class="blog_image">
+<img src="./girls_files/blog-1.jpg" alt="blog">
+</div>
+<div class="blog_content">
+<h3 class="blog_title"><a href="https://preview.uideck.com/items/simple/#0">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor .</a></h3>
+<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt labor dolore.Lorem ipsum dolor sit amet, conse sadipscing elitr, sed diam nonumy eirmod tempor invidunt labor dolore magna .Lorem ipsum dolor sit amet, consetetur sadipscing elit.</p>
+</div>
+</div> 
+</div>
+<div class="col-lg-6">
+<div class="single_blog blog_2 d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s" style="visibility: hidden; animation-duration: 1.3s; animation-delay: 0.2s; animation-name: none;">
+<div class="blog_image">
+<img src="./girls_files/blog-2.jpg" alt="blog">
+</div>
+<div class="blog_content media-body">
+<h3 class="blog_title"><a href="https://preview.uideck.com/items/simple/#0">Lorem ipsum dolor sit amet, consetetur sadipscing .</a></h3>
+<p>Lorem ipsum dolor sit consetetur sadipscing elitr, sed diam.</p>
+<a href="https://preview.uideck.com/items/simple/#0" class="more">Read More</a>
+</div>
+</div> 
+<div class="single_blog blog_2 d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.3s" style="visibility: hidden; animation-duration: 1.3s; animation-delay: 0.3s; animation-name: none;">
+<div class="blog_image">
+<img src="./girls_files/blog-3.jpg" alt="blog">
+</div>
+<div class="blog_content media-body">
+<h3 class="blog_title"><a href="https://preview.uideck.com/items/simple/#0">Lorem ipsum dolor sit amet, consetetur sadipscing .</a></h3>
+<p>Lorem ipsum dolor sit consetetur sadipscing elitr, sed diam.</p>
+<a href="https://preview.uideck.com/items/simple/#0" class="more">Read More</a>
+</div>
+</div> 
+<div class="single_blog blog_2 d-sm-flex mt-30 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s" style="visibility: hidden; animation-duration: 1.3s; animation-delay: 0.4s; animation-name: none;">
+<div class="blog_image">
+<img src="./girls_files/blog-4.jpg" alt="blog">
+</div>
+<div class="blog_content media-body">
+<h3 class="blog_title"><a href="https://preview.uideck.com/items/simple/#0">Lorem ipsum dolor sit amet, consetetur sadipscing .</a></h3>
+<p>Lorem ipsum dolor sit consetetur sadipscing elitr, sed diam.</p>
+<a href="https://preview.uideck.com/items/simple/#0" class="more">Read More</a>
+</div>
+</div> 
+</div>
+</div> 
+</div> 
+</section>
+
+
+<section id="contact" class="contact_area bg_cover pt-120 pb-130" style="background-image: url(assets/images/contact_bg.jpg)">
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-lg-6">
+<div class="section_title section_title_2 text-center pb-25">
+<h4 class="title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s" style="visibility: hidden; animation-duration: 1.3s; animation-delay: 0.2s; animation-name: none;">Contact Us</h4>
+<p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s" style="visibility: hidden; animation-duration: 1.3s; animation-delay: 0.4s; animation-name: none;">Lorem ipsum dolor sit
+amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt labor dolore.</p>
+</div> 
+</div>
+</div> 
+<form id="contact-form" action="https://preview.uideck.com/items/simple/assets/contact.php" method="post" class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s" style="visibility: hidden; animation-duration: 1.3s; animation-delay: 0.4s; animation-name: none;">
+<div class="row">
+<div class="col-lg-6">
+<div class="single_form">
+<input type="text" placeholder="Name" name="name" id="name" required="">
+</div> 
+</div>
+<div class="col-lg-6">
+<div class="single_form">
+<input type="email" placeholder="Email" name="email" id="email" required="">
+</div> 
+</div>
+<div class="col-lg-6">
+<div class="single_form">
+<input type="text" placeholder="Phone Number" name="number" id="number" required="">
+</div> 
+</div>
+<div class="col-lg-6">
+<div class="single_form">
+<input type="text" placeholder="Subject" name="subject" id="subject" required="">
+</div> 
+</div>
+<div class="col-lg-12">
+<div class="single_form">
+<textarea placeholder="Message" name="message" id="message" required=""></textarea>
+</div> 
+</div>
+<p class="form-message"></p>
+<div class="col-lg-12">
+<div class="single_form text-center">
+<button class="main-btn" type="submit">SUBMIT</button>
+</div> 
+</div>
+</div> 
+</form>
+</div> 
+</section>
+
+
+<footer id="footer" class="footer_area">
+<div class="container">
+<div class="footer_wrapper text-center d-lg-flex align-items-center justify-content-between">
+<p class="credit">Designed and Developed by <a href="https://uideck.com/" rel="nofollow">UIdeck</a></p>
+<div class="footer_social pt-15">
+<ul>
+<li><a href="https://preview.uideck.com/items/simple/#0"><i class="lni lni-facebook-original"></i></a></li>
+<li><a href="https://preview.uideck.com/items/simple/#0"><i class="lni lni-twitter-original"></i></a></li>
+<li><a href="https://preview.uideck.com/items/simple/#0"><i class="lni lni-instagram-original"></i></a></li>
+<li><a href="https://preview.uideck.com/items/simple/#0"><i class="lni lni-linkedin-original"></i></a></li>
+</ul>
+</div> 
+</div> 
+</div> 
+</footer>
+
+
+<a href="https://preview.uideck.com/items/simple/#" class="back-to-top" style="display: block;"><i class="lni lni-chevron-up"></i></a>
+
+
+<script src="./girls_files/bootstrap.bundle-5.0.0-beta1.min.js.download"></script>
+
+<script src="./girls_files/tiny-slider.js.download"></script>
+
+<script src="./girls_files/wow.min.js.download"></script>
+
+<script src="./girls_files/main.js.download"></script>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8aedee1769ba3c89',t:'MTcyMjkzNTgwNi4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border: none; visibility: hidden;" src="./girls_files/saved_resource.html"></iframe><script defer="" src="./girls_files/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;rayId&quot;:&quot;8aedee1769ba3c89&quot;,&quot;version&quot;:&quot;2024.7.0&quot;,&quot;r&quot;:1,&quot;token&quot;:&quot;9a6015d415bb4773a0bff22543062d3b&quot;,&quot;serverTiming&quot;:{&quot;name&quot;:{&quot;cfL4&quot;:true}}}" crossorigin="anonymous"></script>
+
+
+</body></html>
